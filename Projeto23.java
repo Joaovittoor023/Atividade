@@ -24,6 +24,10 @@ public class Projeto23 {
         }
 // numero negativo finaliza o calculo
 
+
         sc.close();
     }
+        public double teste(double vall, double vall2) {
+            return vall + vall2;
+        }
 }
